@@ -1,0 +1,12 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/serial2-e9861a5cddd2d333.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/unix/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/into_settings.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/serial_port.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/settings.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/os.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/unix/linux/mod.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libserial2-e9861a5cddd2d333.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/unix/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/into_settings.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/serial_port.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/settings.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/os.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/unix/linux/mod.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/mod.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/unix/mod.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/into_settings.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/serial_port.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/settings.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/os.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serial2-0.2.31/src/sys/unix/linux/mod.rs:

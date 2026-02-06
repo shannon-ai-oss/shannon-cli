@@ -1,0 +1,13 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/aes-46ed7b27507b93f8.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/soft.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/soft/fixslice64.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/autodetect.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/utils.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes128.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes192.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes256.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libaes-46ed7b27507b93f8.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/soft.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/soft/fixslice64.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/autodetect.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/utils.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes128.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes192.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes256.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/soft.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/soft/fixslice64.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/autodetect.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/utils.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes128.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes192.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/ni/aes256.rs:

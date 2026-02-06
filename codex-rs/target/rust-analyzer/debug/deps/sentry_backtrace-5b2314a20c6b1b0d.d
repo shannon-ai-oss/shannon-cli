@@ -1,0 +1,10 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/sentry_backtrace-5b2314a20c6b1b0d.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/integration.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/parse.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/process.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/trim.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/utils.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libsentry_backtrace-5b2314a20c6b1b0d.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/integration.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/parse.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/process.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/trim.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/utils.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/integration.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/parse.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/process.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/trim.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-backtrace-0.46.0/src/utils.rs:

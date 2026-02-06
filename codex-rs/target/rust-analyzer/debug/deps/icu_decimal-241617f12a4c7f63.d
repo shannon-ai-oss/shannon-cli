@@ -1,0 +1,11 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/icu_decimal-241617f12a4c7f63.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/format.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/grouper.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/options.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/parts.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/provider.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/size_test_macro.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libicu_decimal-241617f12a4c7f63.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/format.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/grouper.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/options.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/parts.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/provider.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/size_test_macro.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/format.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/grouper.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/options.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/parts.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/provider.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal-2.1.1/src/size_test_macro.rs:

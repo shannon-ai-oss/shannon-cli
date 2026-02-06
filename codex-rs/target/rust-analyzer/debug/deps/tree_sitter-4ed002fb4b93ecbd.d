@@ -1,0 +1,13 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/tree_sitter-4ed002fb4b93ecbd.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/ffi.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/util.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/./README.md /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/./bindings.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/../src/parser.h /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/tree-sitter-ea064993e8893b74/out/stdlib-symbols.txt
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libtree_sitter-4ed002fb4b93ecbd.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/ffi.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/util.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/./README.md /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/./bindings.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/../src/parser.h /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/tree-sitter-ea064993e8893b74/out/stdlib-symbols.txt
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/ffi.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/util.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/./README.md:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/./bindings.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tree-sitter-0.25.10/binding_rust/../src/parser.h:
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/tree-sitter-ea064993e8893b74/out/stdlib-symbols.txt:
+
+# env-dep:OUT_DIR=/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/tree-sitter-ea064993e8893b74/out

@@ -1,0 +1,10 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/rama_error-22ac31c2c5a2d379.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/backtrace.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/context.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/wrapper.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/macros.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/librama_error-22ac31c2c5a2d379.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/backtrace.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/context.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/wrapper.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/macros.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/mod.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/backtrace.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/context.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/ext/wrapper.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rama-error-0.3.0-alpha.4/src/macros.rs:

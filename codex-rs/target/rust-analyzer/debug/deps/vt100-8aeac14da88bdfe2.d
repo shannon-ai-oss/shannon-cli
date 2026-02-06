@@ -1,0 +1,14 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/vt100-8aeac14da88bdfe2.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/attrs.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/callbacks.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/cell.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/grid.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/parser.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/perform.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/row.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/screen.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/term.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libvt100-8aeac14da88bdfe2.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/attrs.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/callbacks.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/cell.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/grid.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/parser.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/perform.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/row.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/screen.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/term.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/attrs.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/callbacks.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/cell.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/grid.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/parser.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/perform.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/row.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/screen.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/term.rs:

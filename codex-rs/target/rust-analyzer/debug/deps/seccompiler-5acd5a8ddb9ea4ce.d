@@ -1,0 +1,10 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/seccompiler-5acd5a8ddb9ea4ce.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/bpf.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/condition.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/filter.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/rule.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libseccompiler-5acd5a8ddb9ea4ce.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/bpf.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/condition.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/filter.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/rule.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/mod.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/bpf.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/condition.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/filter.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/seccompiler-0.5.0/src/backend/rule.rs:

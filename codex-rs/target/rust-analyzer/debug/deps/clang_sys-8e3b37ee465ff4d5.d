@@ -1,0 +1,14 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/clang_sys-8e3b37ee465ff4d5.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/macros.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/common.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/dynamic.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libclang_sys-8e3b37ee465ff4d5.rlib: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/macros.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/common.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/dynamic.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libclang_sys-8e3b37ee465ff4d5.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/macros.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/common.rs /workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/dynamic.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs:
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/macros.rs:
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/common.rs:
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/build/clang-sys-397fb9b14d8eb919/out

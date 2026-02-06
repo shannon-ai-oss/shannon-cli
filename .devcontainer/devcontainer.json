@@ -1,19 +1,11 @@
 {
-  "name": "Codex",
+  "name": "Shannon CLI",
   "build": {
     "dockerfile": "Dockerfile",
-    "context": "..",
-    "platform": "linux/arm64"
+    "context": ".."
   },
 
-  /* Force VS Code to run the container as arm64 in
-     case your host is x86 (or vice-versa). */
-  "runArgs": ["--platform=linux/arm64"],
-
-  "containerEnv": {
-    "RUST_BACKTRACE": "1",
-    "CARGO_TARGET_DIR": "${containerWorkspaceFolder}/codex-rs/target-arm64"
-  },
+  "containerEnv": {},
 
   "remoteUser": "ubuntu",
   "customizations": {
@@ -21,7 +13,18 @@
       "settings": {
         "terminal.integrated.defaultProfile.linux": "bash"
       },
-      "extensions": ["rust-lang.rust-analyzer", "tamasfe.even-better-toml"]
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-vscode.node-debug2",
+        "rust-lang.rust-analyzer"
+      ]
     }
-  }
+  },
+
+  "features": {
+    "ghcr.io/devcontainers/features/rust:1": {}
+  },
+
+  "postCreateCommand": "rustup default stable"
 }

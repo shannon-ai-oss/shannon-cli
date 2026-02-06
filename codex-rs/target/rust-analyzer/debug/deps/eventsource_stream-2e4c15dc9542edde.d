@@ -1,0 +1,10 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/eventsource_stream-2e4c15dc9542edde.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event_stream.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/parser.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/traits.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libeventsource_stream-2e4c15dc9542edde.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event_stream.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/parser.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/traits.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event_stream.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/parser.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/traits.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/utf8_stream.rs:

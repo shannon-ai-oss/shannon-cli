@@ -1,0 +1,9 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/iana_time_zone-477e5537f853238b.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_linux.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libiana_time_zone-477e5537f853238b.rlib: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_linux.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libiana_time_zone-477e5537f853238b.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_linux.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_linux.rs:

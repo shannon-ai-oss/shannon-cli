@@ -1,0 +1,8 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/icu_decimal_data-6b92216a46909917.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/decimal_symbols_v1.rs.data /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/decimal_digits_v1.rs.data
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libicu_decimal_data-6b92216a46909917.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/decimal_symbols_v1.rs.data /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/decimal_digits_v1.rs.data
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/mod.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/decimal_symbols_v1.rs.data:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_decimal_data-2.1.1/src/../data/decimal_digits_v1.rs.data:

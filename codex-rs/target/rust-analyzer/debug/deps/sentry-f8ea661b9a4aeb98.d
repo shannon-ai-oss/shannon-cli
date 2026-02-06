@@ -1,0 +1,11 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/sentry-f8ea661b9a4aeb98.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/defaults.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/init.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/ratelimit.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/tokio_thread.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/reqwest.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libsentry-f8ea661b9a4aeb98.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/defaults.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/init.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/mod.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/ratelimit.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/tokio_thread.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/reqwest.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/defaults.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/init.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/mod.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/ratelimit.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/tokio_thread.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sentry-0.46.0/src/transports/reqwest.rs:

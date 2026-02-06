@@ -1,0 +1,11 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/wl_clipboard_rs-0d3baf3163924e38.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/common.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/data_control.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/seat_data.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/copy.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/paste.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/utils.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libwl_clipboard_rs-0d3baf3163924e38.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/common.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/data_control.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/seat_data.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/copy.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/paste.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/utils.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/common.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/data_control.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/seat_data.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/copy.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/paste.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wl-clipboard-rs-0.9.2/src/utils.rs:

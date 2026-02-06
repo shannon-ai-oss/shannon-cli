@@ -1,0 +1,1 @@
+{"rustc":5470738401306409665,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3807015988982209947,"build_script_build",false,5309763556392205010]],"local":[{"RerunIfChanged":{"output":"debug/build/shannon-execpolicy-legacy-9fd3014c84f466f6/output","paths":["src/default.policy"]}}],"rustflags":[],"config":0,"compile_kind":0}

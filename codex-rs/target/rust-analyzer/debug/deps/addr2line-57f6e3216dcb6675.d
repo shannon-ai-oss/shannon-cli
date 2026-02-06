@@ -1,0 +1,11 @@
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/addr2line-57f6e3216dcb6675.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/frame.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/function.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lazy.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/line.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lookup.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/unit.rs
+
+/workspaces/shannon-cli/codex-rs/target/rust-analyzer/debug/deps/libaddr2line-57f6e3216dcb6675.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/frame.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/function.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lazy.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/line.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lookup.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/unit.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/frame.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/function.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lazy.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/line.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lookup.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/unit.rs:
